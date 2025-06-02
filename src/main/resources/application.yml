@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: LibraryAuthorizationServer
+
+server:
+  port: 9000
